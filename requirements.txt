@@ -108,7 +108,7 @@ s3transfer==0.2.0
 six==1.12.0
 soupsieve==1.9.1
 Stegano==0.9.4
-Twisted==19.2.1
+Twisted==19.7.0
 typecast==0.3.3
 typing==3.7.4
 Unidecode==1.0.23
